@@ -1,3 +1,5 @@
-# Assignment 1 Support Code
+# Sokoban
 
-Support code for assignment 1 (Sokoban)
+Forker from original completion
+
+Completed in 2019 by Christopher Baker and Michael Wilson
